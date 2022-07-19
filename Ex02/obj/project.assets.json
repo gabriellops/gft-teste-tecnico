@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\gft-teste-pratico\\Ex02\\Ex02.csproj",
+      "projectUniqueName": "C:\\gft-teste-tecnico\\Ex02\\Ex02.csproj",
       "projectName": "Ex02",
-      "projectPath": "c:\\gft-teste-pratico\\Ex02\\Ex02.csproj",
+      "projectPath": "C:\\gft-teste-tecnico\\Ex02\\Ex02.csproj",
       "packagesPath": "C:\\Users\\gabriel\\.nuget\\packages\\",
-      "outputPath": "c:\\gft-teste-pratico\\Ex02\\obj\\",
+      "outputPath": "C:\\gft-teste-tecnico\\Ex02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config"

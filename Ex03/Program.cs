@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿string num = "";
+
+if (num = 0 || num = 999.999.999)
+{
+
+}

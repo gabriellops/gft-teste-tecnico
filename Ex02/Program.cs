@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Ex02.src.Classes;
+
+Humano humano = new Humano(3, 4, 8, 12, 18, 6);

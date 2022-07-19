@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\gft-teste-pratico\\Ex01\\Ex01.csproj": {}
+    "c:\\gft-teste-tecnico\\Ex04\\Ex04.csproj": {}
   },
   "projects": {
-    "c:\\gft-teste-pratico\\Ex01\\Ex01.csproj": {
+    "c:\\gft-teste-tecnico\\Ex04\\Ex04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\gft-teste-pratico\\Ex01\\Ex01.csproj",
-        "projectName": "Ex01",
-        "projectPath": "c:\\gft-teste-pratico\\Ex01\\Ex01.csproj",
+        "projectUniqueName": "c:\\gft-teste-tecnico\\Ex04\\Ex04.csproj",
+        "projectName": "Ex04",
+        "projectPath": "c:\\gft-teste-tecnico\\Ex04\\Ex04.csproj",
         "packagesPath": "C:\\Users\\gabriel\\.nuget\\packages\\",
-        "outputPath": "c:\\gft-teste-pratico\\Ex01\\obj\\",
+        "outputPath": "c:\\gft-teste-tecnico\\Ex04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config"
